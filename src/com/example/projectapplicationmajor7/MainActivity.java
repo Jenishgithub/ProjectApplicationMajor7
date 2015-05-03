@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 	static ImageView iv;
 	SeekBar bar1, bar2;
 	Bitmap photo;
-
+//edited by altergio
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
